@@ -10,4 +10,4 @@ I am Luke Chamley, I just completed a 15 week fullstack software engineer progra
 - 🔭 I’m currently working on improving my fundamentals, and kickstarting my career
 - 📫 You can connect with me on Linkedin here: https://www.linkedin.com/in/luke-chamley/ or email me at lkchamley@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChamMan3&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChamMan3&theme=radical)
