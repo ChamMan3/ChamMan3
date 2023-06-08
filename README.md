@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-Hello World! I am Luke Chamley, a full-stack web developer based in Denver, Colorado who is interested in any opportunity, regardless of location. 
+I am Luke Chamley, a full-stack web developer based in Denver, Colorado who is interested in any opportunity, regardless of location. 
 
 As a lifelong gamer and a science enthusiast I've always been keen on learning more about tech (best exemplified by me building my first custom pc at age 16), but coming out of high school I didn't see my passion as a valid pursuit for a career. Three years in college later I realized the draw I feel towards the tech world would never leave me. I decided rather than switch majors to computer science and spend upwards of three more years at college, I would instead plunge right into the coding world headfirst by attending Flatiron School's software engineering program, and in November 2022 I graduated Flatiron's program with a much deeper understanding and passion for software engineering.
 
