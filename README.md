@@ -15,4 +15,4 @@ Since graduating my pursuit of knowledge hasn't stopped! I learned AWS and used 
 - 🔭 I’m currently working on improving my fundamentals, learning Python, and kickstarting my career!
 - 📫 You can connect with me on Linkedin here: https://www.linkedin.com/in/luke-chamley/ or email me at lkchamley@gmail.com
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChamMan3&theme=radical)
+
